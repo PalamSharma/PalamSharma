@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PalamSharma
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning WebDev
+- 🌱 I’m currently learning React,css
 - 📫 How to reach me palamsharma23@gmail.com
 
 <!---
